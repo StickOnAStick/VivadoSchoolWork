@@ -1,0 +1,11 @@
+# compile verilog/system verilog design source files
+sv xil_defaultlib  \
+"../../../../Lab1.srcs/sources_1/new/Perceptron.sv" \
+"C:/Users/nndim/Downloads/Lab 1/Lab 1/Q3/rom.sv" \
+"C:/Users/nndim/Downloads/Lab 1/Lab 1/Q3/tb_perceptron.sv" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

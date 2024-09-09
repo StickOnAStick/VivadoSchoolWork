@@ -1,0 +1,20 @@
+Vivado Simulator v2024.1
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+Copyright 2022-2024 Advanced Micro Devices, Inc. All Rights Reserved.
+Running: C:/Xilinx/Vivado/2024.1/bin/unwrapped/win64.o/xelab.exe --incr --debug typical --relax --mt 2 -L xil_defaultlib -L uvm -L unisims_ver -L unimacro_ver -L secureip --snapshot tb_perceptron_behav xil_defaultlib.tb_perceptron xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Pass Through NonSizing Optimizer
+WARNING: [VRFC 10-8967] first argument of $fatal is invalid; expected 0, 1 or 2 [C:/Users/nndim/Downloads/Lab 1/Lab 1/Q3/tb_perceptron.sv:97]
+Completed static elaboration
+INFO: [XSIM 43-4329] Assuming default value 1 for the first arguement of $fatal at Line 97, File C:/Users/nndim/Downloads/Lab 1/Lab 1/Q3/tb_perceptron.sv
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.perceptron
+Compiling module xil_defaultlib.rom(data_width=8,init_file="x1.d...
+Compiling module xil_defaultlib.rom(data_width=8,init_file="x2.d...
+Compiling module xil_defaultlib.rom(data_width=1,init_file="y.da...
+Compiling module xil_defaultlib.tb_perceptron
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot tb_perceptron_behav

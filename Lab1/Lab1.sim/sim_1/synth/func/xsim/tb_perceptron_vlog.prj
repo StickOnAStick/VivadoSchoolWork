@@ -1,0 +1,10 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"tb_perceptron_func_synth.v" \
+
+sv xil_defaultlib  \
+"C:/Users/nndim/Downloads/Lab 1/Lab 1/Q3/rom.sv" \
+"C:/Users/nndim/Downloads/Lab 1/Lab 1/Q3/tb_perceptron.sv" \
+
+# Do not sort compile order
+nosort

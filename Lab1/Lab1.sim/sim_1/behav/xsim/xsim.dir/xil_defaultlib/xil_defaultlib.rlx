@@ -1,0 +1,13 @@
+0.7
+2020.2
+May 22 2024
+19:03:11
+C:/Users/nndim/Downloads/Lab 1/Lab 1/Q1/mem.sv,1725090317,systemVerilog,,C:/Users/nndim/Downloads/Lab 1/Lab 1/Q1/tb_sign_extend.sv,,mem,,uvm,,,,,,
+C:/Users/nndim/Downloads/Lab 1/Lab 1/Q1/tb_sign_extend.sv,1725134743,systemVerilog,,,,tb_sign_extend,,uvm,,,,,,
+C:/Users/nndim/Downloads/Lab 1/Lab 1/Q2/tb_line.sv,1725220485,systemVerilog,,,,tb_line,,uvm,,,,,,
+C:/Users/nndim/Downloads/Lab 1/Lab 1/Q3/rom.sv,1725090317,systemVerilog,,C:/Users/nndim/Downloads/Lab 1/Lab 1/Q3/tb_perceptron.sv,,rom,,uvm,,,,,,
+C:/Users/nndim/Downloads/Lab 1/Lab 1/Q3/tb_perceptron.sv,1725373617,systemVerilog,,,,tb_perceptron,,uvm,,,,,,
+D:/Vivado/Lab1/Lab1.sim/sim_1/behav/xsim/glbl.v,1708598507,verilog,,,,glbl,,uvm,,,,,,
+D:/Vivado/Lab1/Lab1.srcs/sources_1/new/Perceptron.sv,1725363179,systemVerilog,,C:/Users/nndim/Downloads/Lab 1/Lab 1/Q3/rom.sv,,perceptron,,uvm,,,,,,
+D:/Vivado/Lab1/Lab1.srcs/sources_1/new/SignExtend.sv,1725135865,systemVerilog,,C:/Users/nndim/Downloads/Lab 1/Lab 1/Q1/mem.sv,,sign_extend,,uvm,,,,,,
+D:/Vivado/Lab1/Lab1.srcs/sources_1/new/SignedArithmetic.sv,1725158565,systemVerilog,,C:/Users/nndim/Downloads/Lab 1/Lab 1/Q2/rom.sv,,line,,uvm,,,,,,

@@ -1,0 +1,7 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Vivado/Lab1/Lab1.sim/sim_1/synth/func/xsim/tb_perceptron_func_synth.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module perceptron
+INFO: [VRFC 10-311] analyzing module glbl
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/nndim/Downloads/Lab 1/Lab 1/Q3/rom.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module rom
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/nndim/Downloads/Lab 1/Lab 1/Q3/tb_perceptron.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module tb_perceptron

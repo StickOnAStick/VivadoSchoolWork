@@ -1,0 +1,14 @@
+Vivado Simulator v2024.1
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+Copyright 2022-2024 Advanced Micro Devices, Inc. All Rights Reserved.
+Running: C:/Xilinx/Vivado/2024.1/bin/unwrapped/win64.o/xelab.exe --incr --debug typical --relax --mt 2 -L xil_defaultlib -L uvm -L unisims_ver -L secureip --snapshot tb_perceptron_func_synth xil_defaultlib.tb_perceptron xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Pass Through NonSizing Optimizer
+ERROR: [VRFC 10-2996] 'sum' is not found for implicit .* port connection [C:/Users/nndim/Downloads/Lab 1/Lab 1/Q3/tb_perceptron.sv:38]
+ERROR: [VRFC 10-8530] module 'rom(data_width=8,init_file="x1.dat")' is ignored due to previous errors [C:/Users/nndim/Downloads/Lab 1/Lab 1/Q3/rom.sv:3]
+ERROR: [VRFC 10-8530] module 'FDCE_default' is ignored due to previous errors [/proj/rdi/data/CLs/5074560/data/verilog/src/unisims/FDCE.v:28]
+ERROR: [VRFC 10-8530] module 'LUT6(INIT=64'b0111111111111111111111111111111110)' is ignored due to previous errors [/proj/rdi/data/CLs/5074560/data/verilog/src/unisims/LUT6.v:30]
+ERROR: [VRFC 10-8530] module 'FDRE_default' is ignored due to previous errors [/proj/rdi/data/CLs/5074560/data/verilog/src/unisims/FDRE.v:27]
+ERROR: [VRFC 10-8530] module 'LUT1(INIT=2'b01)' is ignored due to previous errors [/proj/rdi/data/CLs/5074560/data/verilog/src/unisims/LUT1.v:27]
+ERROR: [XSIM 43-3322] Static elaboration of top level Verilog design unit(s) in library work failed.

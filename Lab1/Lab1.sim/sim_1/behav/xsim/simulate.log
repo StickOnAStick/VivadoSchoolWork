@@ -1,0 +1,19 @@
+Time resolution is 1 ps
+WARNING: Data truncated while reading Datafile: y.dat, while loading at index: 0
+WARNING: Data truncated while reading Datafile: y.dat, while loading at index: 1
+WARNING: Data truncated while reading Datafile: y.dat, while loading at index: 2
+WARNING: Data truncated while reading Datafile: y.dat, while loading at index: 3
+WARNING: Data truncated while reading Datafile: y.dat, while loading at index: 4
+WARNING: Data truncated while reading Datafile: y.dat, while loading at index: 5
+WARNING: Data truncated while reading Datafile: y.dat, while loading at index: 6
+WARNING: Data truncated while reading Datafile: y.dat, while loading at index: 7
+WARNING: Data truncated while reading Datafile: y.dat, while loading at index: 9
+WARNING: Data truncated while reading Datafile: y.dat, while loading at index: 10
+WARNING: Data truncated while reading Datafile: y.dat, while loading at index: 11
+WARNING: Data truncated while reading Datafile: y.dat, while loading at index: 12
+WARNING: Data truncated while reading Datafile: y.dat, while loading at index: 13
+WARNING: Data truncated while reading Datafile: y.dat, while loading at index: 14
+WARNING: Data truncated while reading Datafile: y.dat, while loading at index: 15
+Fatal: y not equal to tb_y
+Time: 155 ns  Iteration: 0  Process: /tb_perceptron/Always87_7  Scope: tb_perceptron  File: C:/Users/nndim/Downloads/Lab 1/Lab 1/Q3/tb_perceptron.sv Line: 97
+$finish called at time : 155 ns

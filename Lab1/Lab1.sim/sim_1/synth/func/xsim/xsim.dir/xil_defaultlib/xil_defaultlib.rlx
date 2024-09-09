@@ -1,0 +1,10 @@
+0.7
+2020.2
+May 22 2024
+19:03:11
+C:/Users/nndim/Downloads/Lab 1/Lab 1/Q1/mem.sv,1725090317,systemVerilog,,C:/Users/nndim/Downloads/Lab 1/Lab 1/Q1/tb_sign_extend.sv,,mem,,uvm,,,,,,
+C:/Users/nndim/Downloads/Lab 1/Lab 1/Q1/tb_sign_extend.sv,1725134743,systemVerilog,,,,tb_sign_extend,,uvm,,,,,,
+C:/Users/nndim/Downloads/Lab 1/Lab 1/Q2/tb_line.sv,1725220485,systemVerilog,,,,tb_line,,uvm,,,,,,
+C:/Users/nndim/Downloads/Lab 1/Lab 1/Q3/rom.sv,1725090317,systemVerilog,,C:/Users/nndim/Downloads/Lab 1/Lab 1/Q3/tb_perceptron.sv,,rom,,uvm,,,,,,
+C:/Users/nndim/Downloads/Lab 1/Lab 1/Q3/tb_perceptron.sv,1725090317,systemVerilog,,,,tb_perceptron,,uvm,,,,,,
+D:/Vivado/Lab1/Lab1.sim/sim_1/synth/func/xsim/tb_perceptron_func_synth.v,1725363931,verilog,,,,glbl;perceptron,,uvm,,,,,,
