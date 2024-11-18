@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<ProcessHandle Version="1" Minor="0">
+    <Process Command="vivado.bat" Owner="nndim" Host="NICKS-PC" Pid="29888" HostCore="12" HostMemory="034298994688">
+    </Process>
+</ProcessHandle>
+<?xml version="1.0"?>
+<ProcessHandle Version="1" Minor="0">
+    <Process Command="vivado.bat" Owner="nndim" Host="NICKS-PC" Pid="23864" HostCore="12" HostMemory="034302349312">
+    </Process>
+</ProcessHandle>
+<?xml version="1.0"?>
+<ProcessHandle Version="1" Minor="0">
+    <Process Command="vivado.bat" Owner="nndim" Host="NICKS-PC" Pid="10496" HostCore="12" HostMemory="034302349312">
+    </Process>
+</ProcessHandle>
